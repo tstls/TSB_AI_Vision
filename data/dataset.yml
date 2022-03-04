@@ -1,0 +1,7 @@
+path: ../data
+train: images
+val: images
+
+# Classes
+nc: 4
+names: ["RedMarker", "DangerMarker", "ShallowMarker", "GreenMarker"]
